@@ -27,7 +27,6 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("TestServlet push");
-		System.out.println("hotfix merge");
 	}
 
 	/**
